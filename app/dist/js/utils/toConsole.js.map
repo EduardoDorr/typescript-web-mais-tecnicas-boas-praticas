@@ -1,0 +1,1 @@
+{"version":3,"file":"toConsole.js","sourceRoot":"","sources":["../../../src/utils/toConsole.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,SAAS,CAAC,GAAG,IAAiB;IAC5C,KAAK,IAAI,GAAG,IAAI,IAAI,EAAE;QACpB,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,QAAQ,EAAE,CAAC,CAAC;KAC7B;AACH,CAAC"}
